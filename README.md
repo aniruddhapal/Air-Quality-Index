@@ -36,6 +36,19 @@ PM2.5 for each year,which are my dependant features.
 
 Real_combine.csv is my final dataset which combines all year's data in a single csv file.
 
+# Training
+
+I have used the following models on the dataset to compare the best performing models.
+
+1. Linear Regression
+2. Lasso Regression
+3. RandomForestRegression
+4. Xgboost Regression
+5. Decision Tree
+6. Artificial Neural Network
+
+
+
 
 
 
