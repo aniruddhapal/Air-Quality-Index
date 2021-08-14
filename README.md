@@ -1,5 +1,5 @@
 # Air-Quality-Index
-It scraps the weather data from multiple web sites , combines and process the training data and creates various ml models to predict the Air-Quality-Index based on other features like Max and Min Temp, Humidity etc.
+It collects the weather data from multiple web sites , combines and process the training data and creates various ml models to predict the Air-Quality-Index based on other features like Max and Min Temp, Humidity etc.
 
 Data Collection 1
 
@@ -14,6 +14,8 @@ Data Collection 2
 
 AQI value which is termed as PM2.5, i.e Particulate Matter which is a mixture of solid and liquid particles that are suspended in the air.
 This data is collected from wheathermap.com.
+AQI_data folder contains the PM2.5 data from 2013-2019.
+The is in Date-wise, hour-wise format, we need to match it with the climate data which is in day-wise format.
 
 
 
